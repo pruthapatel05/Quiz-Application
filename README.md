@@ -5,20 +5,7 @@ A desktop-based Java quiz application built using Java Swing. Test your knowledg
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 
-## 📋 Table of Contents
 
-- [Features](#-features)
-- [Screenshots](#-screenshots)
-- [Technologies Used](#-technologies-used)
-- [Project Structure](#-project-structure)
-- [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Game Rules](#-game-rules)
-- [Quiz Questions](#-quiz-questions)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Author](#-author)
 
 ## ✨ Features
 
@@ -31,9 +18,6 @@ A desktop-based Java quiz application built using Java Swing. Test your knowledg
 - **Rules Page**: Clear instructions and fun rules before starting the quiz
 - **Score Display**: Final score screen with option to play again
 
-## 🖼️ Screenshots
-
-*Note: Screenshots can be added here once available*
 
 ## 🛠️ Technologies Used
 
@@ -128,64 +112,6 @@ Before running this application, ensure you have the following installed:
 2. Import the `java--quiz` folder as the source root
 3. Run the `login.java` file as the main class
 
-## 🎮 Game Rules
-
-1. You are trained to be a programmer and not a story teller, answer point to point
-2. Do not unnecessarily smile at the person sitting next to you, they may also not know the answer
-3. You may have lot of options in life but here all the questions are compulsory
-4. Crying is allowed but please do so quietly
-5. Only a fool asks and a wise answers (Be wise, not otherwise)
-6. Do not get nervous if your friend is answering more questions, may be he/she is doing Jai Mata Di
-7. Brace yourself, this paper is not for the faint hearted
-8. May you know more than what John Snow knows, Good Luck
-
-## 📝 Quiz Questions
-
-The quiz contains 10 questions covering various Java programming topics including:
-
-- Java Development Tools (JDB, JVM, JDK, JRE)
-- Object class methods (hashCode())
-- Java packages (java.util, java.lang, etc.)
-- Marker interfaces
-- Memory management (Heap, Stack)
-- Keywords and access modifiers
-- JAR files
-- Mutable vs Immutable classes
-- Java portability and security features
-
-Each correct answer awards **10 points**, with a maximum possible score of **100 points**.
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to contribute to this project:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Ideas for Contribution
-
-- Add more quiz questions
-- Implement additional lifelines
-- Add difficulty levels (Easy, Medium, Hard)
-- Implement a timer pause feature
-- Add sound effects
-- Create a leaderboard system
-- Add different quiz categories
-- Improve UI/UX design
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👨‍💻 Author
-
-**Prutha Patel**
-
-- GitHub: [@pruthapatel05](https://github.com/pruthapatel05)
-- Repository: [Quiz-Application](https://github.com/pruthapatel05/Quiz-Application)
 
 ---
 
